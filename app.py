@@ -33,6 +33,7 @@ trainer = ListTrainer(bot)
 # trainer.train([
 #     "i want to register a complaint","Yah sure?","register a complaint","Response to the following questions to file a complaint","register fir","Sure, follow along with me"
 # ])
+
 # trainer.train([
 #     "Hello",
 #     "Hi there!",
@@ -51,6 +52,7 @@ trainer = ListTrainer(bot)
 #     "Thank you.",
 #     "You're welcome."
 # ])
+
 # trainer.train([
 #     "Hello",
 #     "Hi there!",
@@ -67,7 +69,7 @@ trainer = ListTrainer(bot)
 #     "Hi there!",
 #     "Hello",
 # ])
-
+#
 # trainer.train([
 #     "Greetings!",
 #     "Hello",
